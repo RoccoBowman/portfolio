@@ -3,12 +3,6 @@ Data Analyst Portfolio
 Rocco Bowman
 2022-06-29
 
-<style type="text/css">
-  body{
-  font-size: 14pt;
-}
-</style>
-
 # By Skill
 
 ## SQL
@@ -31,6 +25,8 @@ how to sequence pre-publication tasks such as marketing, editing,
 designing, and formatting.
 
 <img src="https://escholarship.org/cms-assets/3c651818be453391275b9a78a0895852f3aea07d3c4cf5e7d3d55e5363578928" title="Just a couple of the journal covers for issues 1(1) and 4(1). You can find out more about the journal at https://escholarship.org/uc/ssha_uhj" alt="Just a couple of the journal covers for issues 1(1) and 4(1). You can find out more about the journal at https://escholarship.org/uc/ssha_uhj" width="33%" style="display: block; margin: auto;" /><img src="https://escholarship.org/cms-assets/58e3c503349279633e9a77ca12f433a5ab7424136295b500cfd7224d081a3dba" title="Just a couple of the journal covers for issues 1(1) and 4(1). You can find out more about the journal at https://escholarship.org/uc/ssha_uhj" alt="Just a couple of the journal covers for issues 1(1) and 4(1). You can find out more about the journal at https://escholarship.org/uc/ssha_uhj" width="33%" style="display: block; margin: auto;" />
+
+![](images/map4.png)
 
 ### Preparing data
 
