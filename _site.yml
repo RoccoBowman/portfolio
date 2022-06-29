@@ -1,1 +1,19 @@
-
+name: "Rocco's Portfolio"
+output_dir: "docs"
+navbar:
+  left: 
+    - text: "Portfolio
+      href: index.html
+    - text: "SQL"
+      href: country_report.html
+    - text: "R"
+      href: r.html
+    - text: "Python"
+      href: python.html
+    - text: "Tableau"
+      href: tableau.html
+    - text: "Publications"
+      href: publications.html
+output:
+  html_document:
+    theme: cosmo
