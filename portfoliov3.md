@@ -1586,7 +1586,7 @@ most of all, a high-low population estimate for each area neatly
 packaged within a choropleth map. I can plot the estimated populations
 per ecoregion or by sub-region defined by monastery points.***
 
-![](images/regions.png) ![](images/map4.png) ![](images/map%205.png)
+![](images/regions.png) ![](images/choropleth.png) ![](images/clerical_ratio.png)
 
 ### Comparing estimated population to 1990 census
 
@@ -1670,7 +1670,7 @@ like barley and a decent way to backcast potential populations levels
 and, in turn, estimate how large the clerical population was in
 comparison.***
 
-![](images/map%204.png)
+![](images/compare_1990.png)
 
 ## Tableau
 
@@ -1687,7 +1687,7 @@ some of the key data from eScholarship. The interactive viz can be found
 of Tableau Public
 [here](https://public.tableau.com/views/UHJStats/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link "Go to Tableau Public").
 
-![](images/dashboard.png)
+![](images/Dashboard.png)
 
 ## Publications
 
