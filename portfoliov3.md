@@ -3,12 +3,6 @@ Data Analyst Portfolio
 Rocco Bowman
 2022-06-29
 
-<style type="text/css">
-  body{
-  font-size: 14pt;
-}
-</style>
-
 # By Skill
 
 ## SQL
